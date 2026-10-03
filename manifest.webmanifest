@@ -1,0 +1,25 @@
+{
+ "name": "Supervivencia",
+ "short_name": "Supervivencia",
+ "description": "Manual visual de supervivencia, silbato, SOS, brújula y GPS. Funciona sin conexión.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#14231B",
+ "theme_color": "#14231B",
+ "lang": "es",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
